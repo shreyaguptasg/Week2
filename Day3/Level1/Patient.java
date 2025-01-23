@@ -37,5 +37,5 @@ public class Patient {
 else{
         System.out.println("patient1 is not an instance of Patient");
     }
-    }
+    } 
 }
